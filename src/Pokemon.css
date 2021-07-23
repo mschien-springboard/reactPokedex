@@ -1,0 +1,20 @@
+.Pokemon {
+  display: inline-block;
+  width: 7em;
+  background-color: rgb(0, 54, 85);
+  border-radius: 5px;
+  text-align: center;
+  padding: 1em;
+  margin: 1em;
+}
+
+.Pokemon-title {
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.Pokemon-type, .Pokemon-exp {
+  color: whitesmoke;
+  font-size: 0.7em;
+}
+
